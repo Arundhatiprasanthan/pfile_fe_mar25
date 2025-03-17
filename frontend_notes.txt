@@ -1,0 +1,16 @@
+BOOTSTRAP,JS AND REACT NODES
+Day1 monday 17-03-2025
+
+STEPS TO CREATE NEW GIT REPO:
+-login to github
+-click on + sligtly top right and select new repository
+-enter the new repo name
+-give the description
+-make the repo public[default scope]
+-select the checkbox
+-click create repo button
+
+CMD TO DOWNLOAD ANY PUBLIC REPO:
+$ git clone github.com/Arundhatiprasanthan/pfile_fe_mar25
+The above cmd copies(clones) the git repo from the server(cloud) to the local machine.
+Thus,we get 
